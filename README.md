@@ -1,6 +1,6 @@
 # gkiw_project
 
-GKiW project is a university OpenGL project made for Computer Graphics and Visualization laboratories.
+GKiW project is a university OpenGL game for Computer Graphics and Visualization laboratory classes.
 
 This game lets players plane glide through procedurally generated collidable terrain, control players rotation avoiding
 the gimball lock and many other interesting things, but the projects main focus was to implement custom shaders
